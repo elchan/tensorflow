@@ -232,7 +232,7 @@ if __name__ == "__main__":
   parser.add_argument(
       "--output_dir",
       type=str,
-      default="/tmp/saved_model_half_plus_two",
+      default="/tmp/saved_model_half_plus_two_new",
       help="Directory where to output SavedModel.")
   parser.add_argument(
       "--output_dir_pbtxt",
